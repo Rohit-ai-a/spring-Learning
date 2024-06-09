@@ -81,8 +81,8 @@ public void doWork()
    }
 }
 ---------------------------------------------------------------------------
-//So what we learn from the samll code, there is class of Ramu which is totally depends on the Geeta class.
-   #) It crates object of class and Inject it to the another class.//
+//**__So what we learn from the samll code, there is class of Ramu which is totally depends on the Geeta class.
+  // #) It crates object of class and Inject it to the another class.__**
 
 
 
