@@ -47,3 +47,49 @@ Welcome to my Spring framework learning repository. Here, I'll be documenting my
 Feel free to reach out if you have any questions or suggestions!
 
 Email: [rohit10rg54@gmail.com]
+
+## Daily Log
+
+### [2024-06-09]
+
+**What I learned:**
+- Spring Core:
+-    * Firstly, Spring is a Dependency Injection Framwork to make Java Applications loosely coupled.
+     * Spring provides IOC (Inversion of Control) for Dependencies.
+     * Spring framework makes the easy development of Java EE-applications.
+
+- Dependency Injection:
+-    * It is design Pattern.
+**Code Snippets:**
+```java (What is dependecy Injection via example)
+// Example code snippet
+=====================================================================================================
+class Ramu
+{
+   Geeta ob;
+   public Static void doWork()
+   {
+      System.out.println("Here Ramu is Totally depnds on the Geeta");
+   }
+}
+--------------------------------------------------------------------------
+class Geeta
+{
+public void doWork()
+   {
+      System.out.prntln("If Ramu class get called then it automatically call the getta's class")
+   }
+}
+---------------------------------------------------------------------------
+>) So what we learn from the samll code, there is class of Ramu which is totally depends on the Geeta class.
+   #) It crates object of class and Inject it to the another class.
+
+     ---#Just creating a Simple Flowachart of Layers---
+                   
+                     [
+
+
+
+
+
+
